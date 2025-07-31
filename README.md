@@ -20,11 +20,11 @@ A clean and straightforward weather web application that provides real-time temp
 
 This project is built with fundamental web technologies, ensuring it is lightweight and fast.
 
-HTML5: For the core structure and content.
+1. HTML5: For the core structure and content.
 
-CSS3: For styling, layout, and responsive design.
+2. CSS3: For styling, layout, and responsive design.
 
-JavaScript (ES6+): For application logic, API communication, and DOM manipulation.
+3. JavaScript (ES6+): For application logic, API communication, and DOM manipulation.
 
 ⚙️ Setup and Installation
 
