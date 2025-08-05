@@ -1,10 +1,10 @@
-☀️ WeatherVue
+# ☀️ WeatherVue
 
 Your simple, beautiful, and instant window to the world's weather.
 
 A clean and straightforward weather web application that provides real-time temperature data for any city. Just search for a city, and the app will fetch and display the current, minimum, and maximum temperatures.
 
-✨ Features
+# ✨ Features
 
 1. City Search: Instantly search for any city worldwide.
 
@@ -16,7 +16,7 @@ A clean and straightforward weather web application that provides real-time temp
 
 5. Responsive Design: Looks great on both desktop and mobile devices.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 This project is built with fundamental web technologies, ensuring it is lightweight and fast.
 
@@ -26,7 +26,7 @@ This project is built with fundamental web technologies, ensuring it is lightwei
 
 3. JavaScript (ES6+): For application logic, API communication, and DOM manipulation.
 
-⚙️ Setup and Installation
+# ⚙️ Setup and Installation
 
 To run this project locally, follow these simple steps:
 
@@ -42,11 +42,11 @@ cd weather-app
 
 Simply open the index.html file in your web browser. You're all set!
 
-🔑 API Key
+# 🔑 API Key
 
 This project uses the OpenWeatherMap API to fetch weather data. The free tier is sufficient for this project and provides access to current weather data, forecasts, and more.
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! If you have ideas for improvements or have found a bug, please feel free to open an issue or submit a pull request.
 
